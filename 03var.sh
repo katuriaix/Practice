@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo"Learning devops"
+echo "Learning devops"
